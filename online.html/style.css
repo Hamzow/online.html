@@ -1,0 +1,44 @@
+body {
+   background-color: Lavender ;
+}
+
+.Start {
+  display: flex;
+   padding: 10px;
+    gap: 2rem;
+    color: hwb(180 0% 0%);
+}
+
+.content {
+    display: inline-flex;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+  
+  }
+
+  li {
+    list-style: none;
+    padding: 20px;
+    margin: 10px;
+  }
+  img {
+    width: 100px;
+    height: auto;
+    
+  }
+   .Kutub {
+    flex: 1;
+    max-width: 400px;
+    padding: 30px;
+    margin: 30px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+p {
+    color: black;
+    
+}
+  
